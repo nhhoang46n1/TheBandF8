@@ -33,6 +33,7 @@ html {
     display: inline-block;
     margin: 16px 0px;
     border: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
