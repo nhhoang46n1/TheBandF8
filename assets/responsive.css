@@ -8,10 +8,12 @@
 
     .btn {
         padding: 16px 16px;
+        font-size: 16px;
     }
 
     .form-control {
         padding: 15px;
+        font-size: 16px;
     }
     #footer .socials-list {
         font-size: 48px
